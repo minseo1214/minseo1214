@@ -13,4 +13,4 @@
 <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/></a> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
 
 ### 개발에 사용하는 보드
-</a><img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
+</a><img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry Pi&logoColor=white"/></a>
