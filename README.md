@@ -7,7 +7,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minseo)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 사용 가능한 언어
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
 <!--
 **minseo1214/minseo1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
