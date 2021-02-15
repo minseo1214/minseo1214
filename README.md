@@ -6,11 +6,6 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=minseo)](https://github.com/anuraghazra/github-readme-stats)
 
-### 사용 가능 언어
+### 사용 가능
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
-
-### 사용 가능한 툴
-<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/></a> <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/>
-
-### 개발에 사용하는 보드
-</a><img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=Raspberry_Pi&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/></a><img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a><img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
