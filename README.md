@@ -10,17 +10,21 @@
 <h3>Language</h3>
 
 1.<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
 2.<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+
 3.<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 
 <h3>desingn</h3>
 
 1.<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/></a>
+
 2.<img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>
 
 <h3>board</h3>
 
 1.<img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
+
 2.<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
 
 ### 🤖I'm Junior Robot/AI Developer
