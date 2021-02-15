@@ -2,7 +2,7 @@
 ### 👋 Hi my name is minseo 
 
 * I started studying in April 2020.
-* email[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alstj2004a@gmail.com)](mailto:alstj2004a@gmail.com)
+* email >[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alstj2004a@gmail.com)](mailto:alstj2004a@gmail.com)
 
 >[![minseo's github stats](https://github-readme-stats.vercel.app/api?username=minseo)](https://github.com/anuraghazra/github-readme-stats)
   
