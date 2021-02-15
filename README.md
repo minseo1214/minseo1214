@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi my name is minseo, I study robot and AI
 
 <!--
 **minseo1214/minseo1214** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
