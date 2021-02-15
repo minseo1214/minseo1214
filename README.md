@@ -15,13 +15,14 @@
 
 ### desingn
 
-*<img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/></a>
-*<img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=Adobephotoshop&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white"/></a>
 
 ### board
 
-*<img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
-*<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat-square&logo=RaspberryPi&logoColor=white"/></a>
+* <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/></a>
+
 
 ### 🤖I'm Junior Robot/AI Developer
 >[![minseo's github stats](https://github-readme-stats.vercel.app/api?username=minseo)](https://github.com/anuraghazra/github-readme-stats)
