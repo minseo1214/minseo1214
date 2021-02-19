@@ -25,5 +25,5 @@
 
 
 ### 🤖I'm Junior Robot/AI Developer
->[![민서's github stats](https://github-readme-stats.vercel.app/api?username=minseo)](https://github.com/anuraghazra/github-readme-stats)
+>[![민서's github stats](https://github-readme-stats.vercel.app/api?username=minseo1214)](https://github.com/anuraghazra/github-readme-stats)
 >[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=minseo1214)](https://solved.ac/kinetic27)
